@@ -1,0 +1,88 @@
+,0,1,2,3,4,5,6,7,8,9,10
+0,,,,,,,,,,,
+1,,,,,,,,,,,
+2,Accounting Policies [Abstract]," 
+",,,,,,,,,
+3,ACCOUNTING POLICIES,"
+NOTE 1 — ACCOUNTING POLICIES
+Accounting Principles 
+Our unaudited interim consolidated financial statements and accompanying notes are prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”). In the opinion of management, the unaudited interim consolidated financial statements reflect all adjustments of a normal recurring nature that are necessary for a fair presentation of the results for the interim periods presented. Interim results are not necessarily indicative of results for a full year. The information included in this Form 10-Q should be read in conjunction with information included in the Microsoft Corporation fiscal year 2020 Form 10-K filed with the U.S. Securities and Exchange Commission (“SEC”) on July 30, 2020.
+Principles of Consolidation 
+The consolidated financial statements include the accounts of Microsoft Corporation and its subsidiaries. Intercompany transactions and balances have been eliminated. 
+Estimates and Assumptions 
+Preparing financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses. Examples of estimates and assumptions include: for revenue recognition, determining the nature and timing of satisfaction of performance obligations, and determining the standalone selling price (“SSP”) of performance obligations, variable consideration, and other obligations such as product returns and refunds; loss contingencies; product warranties; the fair value of and/or potential impairment of goodwill and intangible assets for our reporting units; product life cycles; useful lives of our tangible and intangible assets; allowances for doubtful accounts; the market value of, and demand for, our inventory; stock-based compensation forfeiture rates; when technological feasibility is achieved for our products; the potential outcome of uncertain tax positions that have been recognized in our consolidated financial statements or tax returns; and determining the timing and amount of impairments for investments. Actual results and outcomes may differ from management’s estimates and assumptions due to risks and uncertainties, including uncertainty in the current economic environment due to the coronavirus (“COVID-19”).
+In July 2020, we completed an assessment of the useful lives of our server and network equipment and determined we should increase the estimated useful life of server equipment from three years to four years and increase the estimated useful life of network equipment from two years to four years. This change in accounting estimate was effective beginning fiscal year 2021. Based on the carrying amount of server and network equipment included in property and equipment, net as of June 30, 2020, the effect of this change in estimate for the three months ended March 31, 2021, was an increase in operating income of $611 million and net income of $505 million, or $0.07 per both basic and diluted share. The effect of this change for the nine months ended March 31, 2021, was an increase in operating income of $2.3 billion and net income of $1.9 billion, or $0.25 per both basic and diluted share.
+Financial Instruments
+Investments
+We consider all highly liquid interest-earning investments with a maturity of three months or less at the date of purchase to be cash equivalents. The fair values of these investments approximate their carrying values. In general, investments with original maturities of greater than three months and remaining maturities of less than one year are classified as short-term investments. Investments with maturities beyond one year may be classified as short-term based on their highly liquid nature and because such marketable securities represent the investment of cash that is available for current operations. 
+Debt investments are classified as available-for-sale and realized gains and losses are recorded using the specific identification method. Changes in fair value, excluding credit losses and impairments, are recorded in other comprehensive income. Fair value is calculated based on publicly available market information or other estimates determined by management. If the cost of an investment exceeds its fair value, we evaluate, among other factors, general market conditions, credit quality of debt instrument issuers, and the extent to which the fair value is less than cost. To determine credit losses, we employ a systematic methodology that considers available quantitative and qualitative evidence. In addition, we consider specific adverse conditions related to the financial health of, and business outlook for, the investee. If we have plans to sell the security or it is more likely than not that we will be required to sell the security before recovery, then a decline in fair value below cost is recorded as an impairment charge in other income (expense), net and a new cost basis in the investment is established. If market, industry, and/or investee conditions deteriorate, we may incur future impairments.
+Equity investments with readily determinable fair values are measured at fair value. Equity investments without readily determinable fair values are measured using the equity method or measured at cost with adjustments for observable changes in price or impairments (referred to as the measurement alternative). We perform a qualitative assessment on a periodic basis and recognize an impairment if there are sufficient indicators that the fair value of the investment is less than carrying value. Changes in value are recorded in other income (expense), net. 
+Derivatives
+Derivative instruments are recognized as either assets or liabilities and measured at fair value. The accounting for changes in the fair value of a derivative depends on the intended use of the derivative and the resulting designation. 
+For derivative instruments designated as fair value hedges, gains and losses are recognized in other income (expense), net with offsetting gains and losses on the hedged items. Gains and losses representing hedge components excluded from the assessment of effectiveness are recognized in other income (expense), net.
+For derivative instruments designated as cash flow hedges, gains and losses are initially reported as a component of other comprehensive income and subsequently recognized in earnings with the corresponding hedged item. Gains and losses representing hedge components excluded from the assessment of effectiveness are recognized in earnings. 
+For derivative instruments that are not designated as hedges, gains and losses from changes in fair values are primarily recognized in other income (expense), net.
+Fair Value Measurements
+We account for certain assets and liabilities at fair value. The hierarchy below lists three levels of fair value based on the extent to which inputs used in measuring fair value are observable in the market. We categorize each of our fair value measurements in one of these three levels based on the lowest level input that is significant to the fair value measurement in its entirety. These levels are: 
+
+
+
+
+ 
+
+•
+
+Level 1 – inputs are based upon unadjusted quoted prices for identical instruments in active markets. Our Level 1 investments include U.S. government securities, common and preferred stock, and mutual funds. Our Level 1 derivative assets and liabilities include those actively traded on exchanges. 
+
+
+
+
+ 
+
+•
+
+Level 2 – inputs are based upon quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active, and model-based valuation techniques (e.g. the Black-Scholes model) for which all significant inputs are observable in the market or can be corroborated by observable market data for substantially the full term of the assets or liabilities. Where applicable, these models project future cash flows and discount the future amounts to a present value using market-based observable inputs including interest rate curves, credit spreads, foreign exchange rates, and forward and spot prices for currencies. Our Level 2 investments include commercial paper, certificates of deposit, U.S. agency securities, foreign government bonds, mortgage- and asset-backed securities, corporate notes and bonds, and municipal securities. Our Level 2 derivative assets and liabilities primarily include certain over-the-counter option and swap contracts. 
+
+
+
+
+ 
+
+•
+
+Level 3 – inputs are generally unobservable and typically reflect management’s estimates of assumptions that market participants would use in pricing the asset or liability. The fair values are therefore determined using model-based techniques, including option pricing models and discounted cash flow models. Our Level 3 assets and liabilities include investments in corporate notes and bonds, municipal securities, and goodwill and intangible assets, when they are recorded at fair value due to an impairment charge. Unobservable inputs used in the models are significant to the fair values of the assets and liabilities. 
+We measure equity investments without readily determinable fair values on a nonrecurring basis. The fair values of these investments are determined based on valuation techniques using the best information available, and may include quoted market prices, market comparables, and discounted cash flow projections.  
+Our other current financial assets and current financial liabilities have fair values that approximate their carrying values.
+Contract Balances and Other Receivables
+As of March 31, 2021 and June 30, 2020, other receivables due from suppliers were $807 million and $442 million, respectively, and are included in accounts receivable, net in our consolidated balance sheets.
+As of March 31, 2021 and June 30, 2020, long-term accounts receivable, net of allowance for doubtful accounts was $2.8 billion and $2.7 billion, respectively, and are included in other long-term assets in our consolidated balance sheets.
+We record financing receivables when we offer certain of our customers the option to acquire our software products and services offerings through a financing program in a limited number of countries. As of March 31, 2021 and June 30, 2020, financing receivables, net were $3.1 billion and $5.2 billion, respectively, for short-term and long-term financing receivables, which are included in other current assets and other long-term assets in our consolidated balance sheets. We record an allowance to cover expected losses based on troubled accounts, historical experience, and other currently available evidence.
+Recent Accounting Guidance 
+Recently Adopted Accounting Guidance
+Financial Instruments – Credit Losses 
+In June 2016, the FASB issued a new standard to replace the incurred loss impairment methodology under current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates. We adopted the standard effective July 1, 2020. We use a forward-looking expected credit loss model for accounts receivable, loans, and other financial instruments. Credit losses relating to available-for-sale debt securities are recorded through an allowance for credit losses rather than as a reduction in the amortized cost basis of the securities. We applied a modified retrospective approach through a cumulative-effect adjustment to retained earnings as of the effective date to align our credit loss methodology with the new standard. The adoption of the standard did not have a material impact on our consolidated financial statements.
+Recent Accounting Guidance Not Yet Adopted
+Accounting for Income Taxes 
+In December 2019, the FASB issued a new standard to simplify the accounting for income taxes. The guidance eliminates certain exceptions related to the approach for intraperiod tax allocation, the methodology for calculating income taxes in an interim period, and the recognition of deferred tax liabilities for outside basis differences related to changes in ownership of equity method investments and foreign subsidiaries. The guidance also simplifies aspects of accounting for franchise taxes and enacted changes in tax laws or rates, and clarifies the accounting for transactions that result in a step-up in the tax basis of goodwill. The standard will be effective for us beginning July 1, 2021, with early adoption permitted. We do not expect adoption of this standard to have a material impact on our consolidated financial statements.
+","
+ ","
+•","
+Level 1 – inputs are based upon unadjusted quoted prices for identical instruments in active markets. Our Level 1 investments include U.S. government securities, common and preferred stock, and mutual funds. Our Level 1 derivative assets and liabilities include those actively traded on exchanges. ","
+ ","
+•","
+Level 2 – inputs are based upon quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active, and model-based valuation techniques (e.g. the Black-Scholes model) for which all significant inputs are observable in the market or can be corroborated by observable market data for substantially the full term of the assets or liabilities. Where applicable, these models project future cash flows and discount the future amounts to a present value using market-based observable inputs including interest rate curves, credit spreads, foreign exchange rates, and forward and spot prices for currencies. Our Level 2 investments include commercial paper, certificates of deposit, U.S. agency securities, foreign government bonds, mortgage- and asset-backed securities, corporate notes and bonds, and municipal securities. Our Level 2 derivative assets and liabilities primarily include certain over-the-counter option and swap contracts. ","
+ ","
+•","
+Level 3 – inputs are generally unobservable and typically reflect management’s estimates of assumptions that market participants would use in pricing the asset or liability. The fair values are therefore determined using model-based techniques, including option pricing models and discounted cash flow models. Our Level 3 assets and liabilities include investments in corporate notes and bonds, municipal securities, and goodwill and intangible assets, when they are recorded at fair value due to an impairment charge. Unobservable inputs used in the models are significant to the fair values of the assets and liabilities. "
+4,"
+ ","
+•","
+Level 1 – inputs are based upon unadjusted quoted prices for identical instruments in active markets. Our Level 1 investments include U.S. government securities, common and preferred stock, and mutual funds. Our Level 1 derivative assets and liabilities include those actively traded on exchanges. ",,,,,,,,
+5,"
+ ","
+•","
+Level 2 – inputs are based upon quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active, and model-based valuation techniques (e.g. the Black-Scholes model) for which all significant inputs are observable in the market or can be corroborated by observable market data for substantially the full term of the assets or liabilities. Where applicable, these models project future cash flows and discount the future amounts to a present value using market-based observable inputs including interest rate curves, credit spreads, foreign exchange rates, and forward and spot prices for currencies. Our Level 2 investments include commercial paper, certificates of deposit, U.S. agency securities, foreign government bonds, mortgage- and asset-backed securities, corporate notes and bonds, and municipal securities. Our Level 2 derivative assets and liabilities primarily include certain over-the-counter option and swap contracts. ",,,,,,,,
+6,"
+ ","
+•","
+Level 3 – inputs are generally unobservable and typically reflect management’s estimates of assumptions that market participants would use in pricing the asset or liability. The fair values are therefore determined using model-based techniques, including option pricing models and discounted cash flow models. Our Level 3 assets and liabilities include investments in corporate notes and bonds, municipal securities, and goodwill and intangible assets, when they are recorded at fair value due to an impairment charge. Unobservable inputs used in the models are significant to the fair values of the assets and liabilities. ",,,,,,,,
